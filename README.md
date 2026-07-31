@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Explainable and Trustworthy AI
+# 🔍 Explainable and Trustworthy AI
 
 ### Hierarchical Concept Bottleneck Models for explainable-by-design fine-grained bird classification, on two parallel backbones (ResNet-50 vs. ViT-B/16)
 
